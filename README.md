@@ -4,5 +4,5 @@ Utilitarianism: This theory is used to determine the best decision that can be m
 
 Deontology: In this, the focus is on abstract principles like honesty, fairness, respect, justice, etc. irrespective of the consequences one has to endure due to the decision made. Due to this reason, it is also called a non-consequentialist theory.
 
-Virtue Ethics: Here, an individual wants to help others because is kind but not to get an outcome that leaves a positive impression on others in order to make them feel like they owe him or simply doing his job. An individual here considers character, motivations, and intentions.
+Virtue Ethics: Here, an individual wants to help others because is kind but not to get an outcome that leaves a positive impression on others in order to make them feel like they owe him or simply doing his job. An individual here considers character, motivations, and intentions. !!
 
